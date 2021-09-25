@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "827229098546",
+    "firebase_url": "https://helppet-6f770.firebaseio.com",
+    "project_id": "helppet-6f770",
+    "storage_bucket": "helppet-6f770.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827229098546:android:b368158da99c5b5888a22b",
+        "android_client_info": {
+          "package_name": "com.br.helppet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827229098546-i55atilaqadlo2obph30l7t10dgpjekl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.br.helppet",
+            "certificate_hash": "c6a50a828d8d9ad8fd2d1a3fba6fd2ee51835eb2"
+          }
+        },
+        {
+          "client_id": "827229098546-n1vg602p5f2po3bqceo728os90jo7cpp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF-mw8ltkaW4ey70Nr8r-nh0fk5CUUi9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827229098546-n1vg602p5f2po3bqceo728os90jo7cpp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

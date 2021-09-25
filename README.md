@@ -10,4 +10,6 @@ Esta ferramenta busca acabar com o abandono de animais, gerando alternativas par
 
 A linguagem foi escolhida pelo desafio de uma linguagem relativamente nova para a epoca e o anseio de aprender. 
 
+![Alt Text](https://media.giphy.com/media/hxLuNsRpu8QBZ5oIwZ/giphy.gif)
+
 

@@ -12,6 +12,6 @@ A linguagem foi escolhida pelo desafio de uma linguagem relativamente nova para 
 
 ![Alt Text](https://media.giphy.com/media/hxLuNsRpu8QBZ5oIwZ/giphy.gif)
 
-### Demontrações---> encurtador.com.br/eqv69
+### Demontrações---> https://encurtador.com.br/eqv69
 
 

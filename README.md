@@ -1,16 +1,13 @@
 # helppet
 
-A new Flutter application.
+Este é aplicativo desenvolvido em flutter/dart produzido em 2020 como trabalho final da faculdade.
 
-## Getting Started
+## Resumo
 
-This project is a starting point for a Flutter application.
+Este projeto tem como problema os animais abandonados.
 
-A few resources to get you started if this is your first Flutter project:
+Esta ferramenta busca acabar com o abandono de animais, gerando alternativas para doação e adoção de animas ou mantimentos para ongs.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+A linguagem foi escolhida pelo desafio de uma linguagem relativamente nova para a epoca e o anseio de aprender. 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+

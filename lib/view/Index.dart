@@ -169,7 +169,7 @@ class _IndexState extends State<Index> {
                   image: new DecorationImage(
                     colorFilter:
                         ColorFilter.mode(Colors.black26, BlendMode.darken),
-                    image: AssetImage('assets/img/logo.png'),
+                    image: AssetImage('assets/img/catDog.jpg'),
                     fit: BoxFit.fitHeight,
                   ),
                   borderRadius: BorderRadius.circular(20),

@@ -1,6 +1,6 @@
 # helppet
 
-Este é aplicativo desenvolvido em flutter/dart produzido em 2020 como trabalho final da faculdade.
+Este é um aplicativo desenvolvido em flutter/dart produzido em 2020 como trabalho final da faculdade.
 
 ## Resumo
 
